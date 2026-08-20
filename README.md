@@ -1,6 +1,5 @@
-# Hi there, I'm Channy! 👋
-
-### 👨‍💻 About Me
+# Ny Web Developer 👩‍🎓🎓💻
+## 👨‍💻 About Me
 - 🔭 I’m currently working on Web Development & React Projects.
 - 🌱 I’m currently learning JavaScript, React, and Python.
 
